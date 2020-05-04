@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1588286424 source:c:\users\dawoo\onedrive\desktop\search_sort_alogrithms\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"searchSortAlgorithms.h"
+
+1544314712 c:\users\dawoo\onedrive\desktop\search_sort_alogrithms\searchsortalgorithms.h
+
+1588286424 source:c:\users\dawoo\onedrive\desktop\github repositories\search_sort_algorithms\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"searchSortAlgorithms.h"
+
+1544314712 c:\users\dawoo\onedrive\desktop\github repositories\search_sort_algorithms\searchsortalgorithms.h
+
